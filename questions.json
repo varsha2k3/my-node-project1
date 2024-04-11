@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "choices": ["Hyper Text Markup Language", "Highly Typed Machine Learning", "Home Tool Management Language", "Hyperlink and Text Markup Language"]
+    },
+    {
+      "question": "What is the full form of CPU?",
+      "choices": ["Central Processing Unit", "Central Program Unit", "Computer Processing Unit", "Core Programming Unit"]
+    },
+    {
+      "question": "What is the purpose of RAM in a computer?",
+      "choices": ["To temporarily store data and instructions that are actively being used by the CPU", "To store permanent data even when the computer is turned off", "To execute program instructions", "To control the flow of data between the CPU and other components"]
+    },
+    {
+      "question": "What is a VPN used for?",
+      "choices": ["To create a secure and encrypted connection over a less secure network, such as the internet", "To browse the web anonymously", "To increase internet speed", "To protect against computer viruses"]
+    },
+    {
+      "question": "What is the purpose of an operating system?",
+      "choices": ["To manage hardware resources, provide user interface, and support application software", "To store and organize files on a computer", "To control the flow of data between the CPU and other components", "To execute program instructions"]
+    },
+    {
+      "question": "What is the difference between HTTP and HTTPS?",
+      "choices": ["HTTPS encrypts data while HTTP does not", "HTTP is faster than HTTPS", "HTTPS is used for emails while HTTP is used for web browsing", "HTTP requires authentication while HTTPS does not"]
+    },
+    {
+      "question": "Which programming language is commonly used for developing Android applications?",
+      "choices": ["Java", "Python", "C++", "JavaScript"]
+    },
+    {
+      "question": "What is SQL used for?",
+      "choices": ["To manage and manipulate relational databases", "To create web pages", "To develop mobile applications", "To design computer hardware"]
+    },
+    {
+      "question": "What is the purpose of a firewall in network security?",
+      "choices": ["To monitor and control incoming and outgoing network traffic based on predetermined security rules", "To filter spam emails", "To provide secure access to remote networks", "To encrypt data transmissions"]
+    },
+    {
+      "question": "What is the purpose of an IP address?",
+      "choices": ["To uniquely identify a device on a network", "To store and organize files on a computer", "To execute program instructions", "To control the flow of data between the CPU and other components"]
+    },
+    {
+      "question": "If the day after tomorrow is Wednesday, what day was three days ago?",
+      "choices": ["Sunday", "Monday", "Tuesday", "Thursday"]
+    },
+    {
+      "question": "What is the sum of the first 50 natural numbers?",
+      "choices": ["1275", "1225", "1250", "1200"]
+    },
+    {
+      "question": "How many sides does a hexagon have?",
+      "choices": ["6", "7", "8", "5"]
+    },
+    {
+      "question": "What is the primary function of an operating system?",
+      "choices": ["To manage hardware resources, provide user interface, and support application software", "To store and organize files on a computer", "To control the flow of data between the CPU and other components", "To execute program instructions"]
+    },
+    {
+      "question": "What is the purpose of a programming language?",
+      "choices": ["To provide a set of instructions that computers can understand and execute", "To manage hardware resources, provide user interface, and support application software", "To design computer hardware", "To store and organize files on a computer"]
+    },
+    {
+      "question": "What is the purpose of a search engine?",
+      "choices": ["To help users find information on the internet", "To manage hardware resources, provide user interface, and support application software", "To create secure and encrypted connections", "To control the flow of data between the CPU and other components"]
+    },
+    {
+      "question": "What is the purpose of an email client?",
+      "choices": ["To manage and send emails", "To provide secure access to remote networks", "To encrypt data transmissions", "To execute program instructions"]
+    },
+    {
+      "question": "What is the value of 3² + 4²?",
+      "choices": ["25", "49", "9", "16"]
+    },
+    {
+      "question": "What is the value of 5! (factorial of 5)?",
+      "choices": ["120", "60", "20", "10"]
+    },
+    {
+      "question": "If a triangle has sides of lengths 9 cm, 12 cm, and 15 cm, is it a right triangle?",
+      "choices": ["Yes", "No"]
+    }
+  ]
+}

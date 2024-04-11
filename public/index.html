@@ -1,0 +1,50 @@
+<html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Aptitude Test</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <style>
+      .center{
+        width:250px;
+        margin-left:30px;
+      }
+      #a
+      {
+        background-color:white;
+      }
+      .name{
+        width:200px;
+       height:30px;
+      }
+      .email{
+        width:200px;
+       height:30px;
+      }
+      
+     
+    </style>
+    <body>
+      <img class="center" src="satsang.jpg" >
+      <div id="a">
+        <h2> <a href="login.html"><i>Admin </i></h2></a><h1>Aptitude Test</h1>
+      
+      <form id="aptitude-form" method="POST" action="/api/save-answers">
+        <div>
+          <label for="name"  ><b>Name   &nbsp; &nbsp;   :</b></label>
+          <input type="text" id="name" name="name" class="name" required><br><br>
+        </div>
+        <div>
+          <label for="email"><b>Email ID :</b></label>
+          <input type="email" id="email" name="email" class="email" required><br><br>
+        </div>
+        <div id="question-container">
+<!-- Questions will be inserted here -->
+        </div>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+      <script src="script.js"></script>
+    </body>
+    </html>
